@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 8a316b34-f682-4c73-854b-6e8cade5a0ca
+      url: 'https://janelwu.netlify.app/'

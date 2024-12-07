@@ -2,18 +2,43 @@ project:
   type: website
 
 website:
-  title: "personal website_jw"
+  title: "Janel Wu"
+  reader-mode: true
   navbar:
+    title: false
+    background: white
+    foreground: "gray-800"
+    collapse-below: sm  
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
 
+    right: 
+      - icon: github
+        menu:
+          - text: Website Source Code
+            url:  https://github.com/JanelWu/personal-website
+          - text: Github Profile
+            url:  https://github.com/JanelWu
+
+#  comments:
+#    utterances:
+#      repo: janelwu4/quarto-website
+    
+# Format-specific Metadata
 format:
   html:
-    theme: cosmo
-    css: styles.css
-    toc: true
+    theme:
+      - sandstone
+      - styles.scss
+    toc: false
+    published-title: "last updated"
+    reference-location: document
+    code-fold: false
+    code-summary: ""
+    fontsize: 1.3em
 
-
-
+execute:
+  freeze: auto

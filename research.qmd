@@ -1,0 +1,9 @@
+## Research 
+
+1. [Click here to download the PDF](/Econ Final Research Paper (1).pdf) : Pandemic Schooling Mode and Students' Test Score for Difference Races using weighted least square regression
+
+
+2. [Click here to download the PDF](/Stats_101b_Final_project.pdf) : Analyzed the complex interactions be-
+tween food, exercise, and caffeine to inform more personalized health recommendations that could
+effectively manage or mitigate glucose fluctuations using $2^3$ factorial research.  
+

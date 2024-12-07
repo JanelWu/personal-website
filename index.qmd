@@ -1,11 +1,15 @@
 ---
-title: "personal website_jw"
+title: "Janel Wu"
 ---
 
-This is a Quarto website.
+<img src="images/IMG_2308.jpeg" alt="Janel Wu" width="300">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+I am a senior at UCLA, double majoring in Mathematics/Economics and Statistics & Data Science with a specialization in computing. Through coursework in statistics, calculus, linear algebra, and programming, I have developed a strong foundation in mathematical modeling and computational methods.
+
+During the Summer of 2023, I interned at Deloitte China, contributing to a live financial due diligence project. I gained hands-on experience in data analysis, client interaction, and report preparation, leveraging Excel to organize and present key findings.
+
+I am proficient in programming languages such as R, C++, and Python, which I use to solve complex problems and analyze data. My goal is to build a career in the financial sector, applying my technical and analytical skills to drive impactful results.
+
+**Email**: [janelwu4@g.ucla.edu](mailto:janelwu4@g.ucla.edu) <br/>
+
